@@ -90,11 +90,6 @@
 0.0.0.0 199.7.54.72:80
 0.0.0.0 199.7.54.72
 0.0.0.0 CRL.VERISIGN.NET.*
-0.0.0.0 backup.lumion3d.net
-0.0.0.0 license.lumiontech.net
-0.0.0.0 license.lumion3d.net
-0.0.0.0 activation.abvent.com
-0.0.0.0 activation.cloud.techsmith.com
 0.0.0.0 cclibraries-defaults-cdn.adobe.com
 0.0.0.0 3dns-5.adobe.com
 0.0.0.0 t3dns.adobe.com
